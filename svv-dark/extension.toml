@@ -1,0 +1,7 @@
+id = "svv-dark"
+name = "SVV Dark"
+version = "0.0.1"
+schema_version = 1
+authors = ["SVV <svv.contact@gmail.com>"]
+description = "SVV SOLID Dark"
+repository = "https://github.com/shchelchkov/zed-svv-dark"
