@@ -60,7 +60,12 @@
         "editor.gutter.background": "#000000FF",
         "editor.subheader.background": "#1A1A1AFF",
         "editor.active_line.background": "#1F2024",
-        "editor.highlighted_line.background": "#2d543f",
+
+        "debugger.accent": "#e04b14",
+        "editor.debugger_active_line.background": "#041E2B",
+
+        "editor.highlighted_line.background": "#2c87ab",
+        "editor.debugger.current_line.background": "#2c87ab",
         "editor.line_number": "#4b5059",
         "editor.active_line_number": "#a1a3ab",
         "editor.hover_line_number": null,
